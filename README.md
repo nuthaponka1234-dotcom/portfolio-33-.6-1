@@ -17,5 +17,5 @@
 
 [Activitiesด้านวิชาการ](Activitiesด้านวิชาการ.md)
 
-[Activitiesteด้านจิตอาสา อนุรักษ์สิ่งเเวดล้อม](Activitiesteด้านจิตอาสาอนุรักษ์สิ่งเเวดล้อม.md)
+
 
