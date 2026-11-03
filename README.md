@@ -15,3 +15,5 @@
 
 [Activitiesด้านการเกษตร4](Activitiesด้านการเกษตร4.md)
 
+[Activitiesด้านวิชาการ](Activitiesด้านวิชาการ.md)
+
